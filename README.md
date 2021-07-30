@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hex9inja
+- 👋 Hi, I’m Santosh @hex9inja
 - 👀 I’m interested in FULL_STACK using JavaScript. Grips on Nodejs,MongoDb,Angular,Express are tight, inc Java : Spring Boot, MySQL, Redis, RabbitMQ.
 - 🌱 I’m currently learning JavaScript.
 - 💞️ I’m looking to collaborate on many of small projects.
