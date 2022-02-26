@@ -10,11 +10,11 @@ I am a full stack developer 👨🏻‍💻 . I'm a creative problem solving ent
 
 ## ⚡ Technologies
 - Front-end development using 
-        **HTML, Javascript, CSS, scss, sass, Bootstrap, Angular**
+        **JavaScript, TypeScript, Angular, Html, Scss, Css,Bootstrap, Jquery**
 - Backend development using 
-        **NodeJs, ExpressJs, Java(Springboot)**
+        **NodeJs, NestJs, ExpressJs, Java(Springboot)**
 - Made handshake with Databases
-        **MongoDb, MySql, Redis**
+        **MongoDb,Redis, MySql**
 - Robust full-stack system design implementation
 - Solving Data structure and algorithm questions in 
         **java**
